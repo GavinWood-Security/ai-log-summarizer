@@ -1,4 +1,4 @@
-# AI Log Summarizer
+# AI Log Summarizer (WIP)
 
 ## Overview
 AI Log Summarizer is a lightweight Python tool that automatically pulls **Microsoft Defender alerts** through the Microsoft Graph Security API, summarizes them using an AI model, and outputs clear, actionable incident reports.  
